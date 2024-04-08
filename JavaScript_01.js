@@ -8,7 +8,7 @@ console.log("Hello " + name + "!");
 // Variables are containers for storing information.
 // Creating a variable in JavaScript is called "declaring" a variable:
 
-var carName = "Volvo";
+var carName = "BMW";
 
 // JavaScript has 8 Datatypes
 // 1. String
