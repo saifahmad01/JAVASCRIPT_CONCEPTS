@@ -1,6 +1,6 @@
 // using console.log
 
-let name = "SheCodes";
+let name = "Muhammad Saif Ahmad";
 console.log("Hello " + name + "!");
 
 // what is vairables
@@ -58,7 +58,6 @@ const date = new Date("2022-03-25");
 // The Multiplication Operator * multiplies values
 // The Comparison Operator > compares values
 // Operator	Description
-
 // +	Addition
 // -	Subtraction
 // *	Multiplication
@@ -67,8 +66,6 @@ const date = new Date("2022-03-25");
 // %	Modulus (Remainder)
 // ++	Increment
 // --	Decrement
-
-
 
 
 
